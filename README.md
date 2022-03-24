@@ -12,12 +12,9 @@
 ***
 
 ```css
-    body {
-        <style> 
-            .selector {
-                font-family: "Awesome", Arial, sans-serif;
-                color: red;
-            }
-        </style>
-    }
+         .selector {
+            font-family: "Awesome", Arial, sans-serif;
+            color: red;
+        }
+
 ```
